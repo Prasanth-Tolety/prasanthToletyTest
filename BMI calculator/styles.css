@@ -1,0 +1,88 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #E8F9FD;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: #0AA1DD;
+    margin-top: 50px;
+}
+
+#form-container {
+max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #0AA1DD;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    outline: none;
+}
+
+button {
+    background-color: #0AA1DD;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #79DAEE;
+}
+
+#result-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #0AA1DD;
+    margin-bottom: 20px;
+}
+
+#bmi {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #0AA1DD;
+    margin-bottom: 20px;
+}
+
+#status {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #0AA1DD;
+}
