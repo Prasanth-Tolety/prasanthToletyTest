@@ -1,4 +1,5 @@
-1) Mention the working of Internet Website in Terms of Front-end & Back-end Divisions
+1.
+ Mention the working of Internet Website in Terms of Front-end & Back-end Divisions
 Ans.
  There are two basic components to internet web design: front-end and back-end.
  The front end is the part of the website that users interact with directly. This includes website design, layout and user interface. The interface is written in HTML, CSS, and JavaScript, and runs on the user’s device (e.g. their web browser). When a user visits a web page, their web browser sends a request to the server to provide the website’s HTML, CSS, and JavaScript files. Once the files are received, the web browser uses them to display the website on the user’s device.
@@ -7,7 +8,8 @@ Ans.
 
 
 
-2) What are tags in HTML? Explain the each category of tag with an Example.
+2.
+ What are tags in HTML? Explain the each category of tag with an Example.
 Ans.
  In HTML (Hypertext Markup Language), tags are used to describe the structure and content of a web page. HTML tags are enclosed in angle brackets (< and >) and are used to describe various elements such as titles, paragraphs, images, links, and so on.
  There are three main types of HTML tags:
@@ -27,16 +29,18 @@ Ans.
  "<img>": This tag is used to embed an image in an HTML document.
  "<video>": This tag is used to embed a video in an HTML document.
 
-3) Explain the working Procedure of Virtual DOM.
+3.
+ Explain the working Procedure of Virtual DOM.
 Ans.
  Virtual DOM is a design concept used in web development to improve the performance of web applications. The idea behind the Virtual DOM is to create a virtual copy of the actual DOM (Document Object Model) that represents the current state of the web page. This virtual copy is then used to calculate and efficiently update the differences to be made in the real DOM.
  The virtual DOM works by creating a new virtual tree that represents the updated state of the web application each time it changes. The Virtual DOM then compares this new virtual tree with the previous virtual tree to distinguish between them. Once the differences are detected, the virtual DOM calculates the most efficient way to update the real DOM to reflect the changes. Eventually the Virtual DOM updates the real DOM with the changes, but only for the parts of the page that have changed.
  Using a virtual DOM makes web applications faster and more efficient, as it reduces the time and resources required to update the actual DOM.
 
 
-4) Mention some Differences between MySQL and No SQL
+4.
+ Mention some Differences between MySQL and No SQL
 Ans.
- 1.MySQL is a relational database system (RDBMS), while NoSQL (not just SQL) is a database system that does not use traditional table-based relational database systems
+ 1. MySQL is a relational database system (RDBMS), while NoSQL (not just SQL) is a database system that does not use traditional table-based relational database systems
  2. Data Structure: MySQL is a relational database, which means it stores data in tables with predefined columns and rows. NoSQL databases, on the other hand, use different data models, such as document, key-value, column-family, and graph.
  3. Scalability: MySQL has scalability limits and requires vertical scaling (upgrading server hardware) to handle high traffic and data. NoSQL databases are horizontally scalable, which means more servers can be added to the system and handle more traffic and data.
  4. Query Language: MySQL uses SQL (Structured Query Language) to query and manipulate data. NoSQL databases use different query languages ​​depending on the data model used. For example, MongoDB uses a query language called MongoDB Query Language (MQL).
@@ -44,7 +48,8 @@ Ans.
  6. ACID Compliance: MySQL follows the ACID (Atomicity, Consistency, Isolation, Durability) property. NoSQL databases do not follow the ACID property.
 
 
-5) Explain any one DBMS Technology in your own words.
+5
+ Explain any one DBMS Technology in your own words.
 Ans.
  One popular DBMS technology is MongoDB. MongoDB is a NoSQL database management system that uses a document-based data model. It is designed to be highly scalable and flexible, making it ideally suited for modern web applications that require frequent updates and real-time collaboration.
  Unlike traditional relational databases, MongoDB stores data in documents, which are JSON-like structures that can be nested and have dynamic schemas. This makes it easier to store and retrieve complex data structures, such as hierarchical data or arrays.
