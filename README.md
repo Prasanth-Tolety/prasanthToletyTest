@@ -13,20 +13,19 @@ In HTML (Hypertext Markup Language), tags are used to describe the structure and
 There are three main types of HTML tags:
 
 Structural tags: These tags are used to describe the basic structure of an HTML document, including headings, paragraphs, and tables. Examples are:
-<html>: This tag is used to define the beginning of the HTML document.
-<head>: This tag is used to describe the header section of an HTML document, which typically contains information such as page titles, links to style sheets, and metadata.
-<body>: This tag is used to describe the main body of the HTML document.
+"<html>": This tag is used to define the beginning of the HTML document.
+"<head>": This tag is used to describe the header section of an HTML document, which typically contains information such as page titles, links to style sheets, and metadata.
+"<body>": This tag is used to describe the main body of the HTML document.
 
 Formatting tags: These tags are used to define the formatting and style of text and other elements on the web page. Examples are:
-<strong>: This tag is used to bold text.
-<em>: This tag is used for italic text.
-<u>: This tag is used for underlining text.
-<strike>: This tag is used for strikes.
+"<strong>": This tag is used to bold text.
+"<em>": This tag is used for italic text.
+"<u>": This tag is used for underlining text.
 
 Linking/embedded tags: These tags can be used to link to other web pages or embed images, videos and other media. Examples are:
-<a>: This tag is used to create a hyperlink to another web page or a specific part of the same web page.
-<img>: This tag is used to embed an image in an HTML document.
-<video>: This tag is used to embed a video in an HTML document.
+"<a>": This tag is used to create a hyperlink to another web page or a specific part of the same web page.
+"<img>": This tag is used to embed an image in an HTML document.
+"<video>": This tag is used to embed a video in an HTML document.
 
 3) Explain the working Procedure of Virtual DOM.
 Ans.
