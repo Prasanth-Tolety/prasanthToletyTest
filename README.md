@@ -48,7 +48,7 @@ Ans.
  6. ACID Compliance: MySQL follows the ACID (Atomicity, Consistency, Isolation, Durability) property. NoSQL databases do not follow the ACID property.
 
 
-5
+5.
  Explain any one DBMS Technology in your own words.
 Ans.
  One popular DBMS technology is MongoDB. MongoDB is a NoSQL database management system that uses a document-based data model. It is designed to be highly scalable and flexible, making it ideally suited for modern web applications that require frequent updates and real-time collaboration.
